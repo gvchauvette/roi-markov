@@ -1,0 +1,20 @@
+parameter,value,low,high,.comment
+NRD,0.04,0.03498,0.04574,Remission to Depression without treatment; Source is Vittengl Paper
+,,,,
+Attr1,0.123,0.0873,0.1679,Attrition in Month 1; Multiplied 24.63% and CI  values of 17.45% and 33.58% by .5
+Attr2_3,0.073,0.049,0.107,Attrition in Month 2 & 3; Converting 12.315% over two months to monthly gives 7.3% per month & do the same for high and low values in CI
+,,,,
+CRD,0.012,0.010623,0.013722,Continuation Phase Remission to Continuation Phase Depression; Source is Vittengl paper
+CDR,0.017313435,0.015140739,0.019797913,Continuation Phase Depression to Continuation Phase Remission
+,,,,
+NDR1_3,0.083434,0.072964018,0.095407185,Monthly rate 1st three months of No Treatment D > R
+NDR4_15,0.071524442,0.062548704,0.0817882, Monthly rate for remaining months of No Treatment D > R
+,,,,
+ADR1,0.05625,0.04919108,0.064321875,"1st Month  Rate for retained CBT D > R, 12.5% of 45% (39-51%)"
+ADR2,0.089403974,0.078184498,0.102233444,"2nd Month Rate for retained CBT D > R, 18.75% of 45%"
+ADR3,0.36,0.314822912,0.41166,"Third Month Rate for retained CBT D > R, 68.75% of 45%"
+,,,,
+Abs,0.1844,0.099,0.2842,Absenteeism; Pulled from data analysis
+Pres,0.2512,0.1366,0.3889,Presenteeism; Pulled from data analysis
+,,,,
+Wage,i,,,"High is 15,793.33, Low is 3859.17; Break even is 2178.54 per month or 26,142.48 per year"

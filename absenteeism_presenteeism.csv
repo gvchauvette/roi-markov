@@ -1,0 +1,10 @@
+study,absenteeism_mean,absenteeism_sd,absenteeism_se,presenteeism_mean,presenteeism_sd,presenteeism_se,n,measure
+Lam et al. (2018),5.7,14.4,1.003295541,33.7,26,1.811505837,206,WPAI
+Lerner et al. (2004) baseline usual care,19.6,3,0.346410162,9.5,0.6,0.069282032,75,WLQ
+Lerner et al. (2004) 6-month follow-up,20.7,4,0.461880215,7.2,0.6,0.069282032,75,WLQ
+"Lerner et al. (2015) baseline, treatment group",14.2,18.4,1.249073389,10.2,4.3,0.29190302,217,WLQ
+"Lerner et al. (2015) baseline, usual care group",15,19.2,1.31248498,10.4,4.5,0.307613667,214,WLQ
+Lerner et al. (2010),17.9,23.3,1.377757883,9.1,4.6,0.272003702,286,WLQ
+Beck et al. (2011),8.2,20.5,0.738289466,35.2,26.4,0.950772776,771,WPAI
+"Lam et al. (2014) baseline, treatment group",9.4,15.1,0.894446805,55.6,21.4,1.267626598,285,WPAI
+"Lam et al. (2014) baseline, usual care group",55.6,21.4,1.795848107,55.7,24.4,2.047602514,142,WPAI

@@ -1,0 +1,14 @@
+.model,.state,.comment,cost,utility
+NoTreatment,ARDepression,"In NoTreatment, all stay within ARD/ARR",Abs*Wage+(1-Abs)*Pres*Wage,0
+NoTreatment,ARRemission,,0,0
+NoTreatment,AADepression,,0,0
+NoTreatment,AARemission,,0,0
+NoTreatment,CDepression,,0,0
+NoTreatment,CRemission,,0,0
+,,,,
+Treatment,ARDepression,"Acute, Retained",Abs*Wage+(1-Abs)*Pres*Wage+670.82,0
+Treatment,ARRemission,,670.82,0
+Treatment,AADepression,"Acute, Attrition",Abs*Wage+(1-Abs)*Pres*Wage,0
+Treatment,AARemission,,0,0
+Treatment,CDepression,Continuted,Abs*Wage+(1-Abs)*Pres*Wage+38.60,0
+Treatment,CRemission,,38.6,0

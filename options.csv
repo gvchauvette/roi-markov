@@ -1,0 +1,7 @@
+option,value
+cost,cost
+effect,utility
+cycles,15
+base,NoTreatment
+method,end
+init,"10000,0,0,0,0,0"
